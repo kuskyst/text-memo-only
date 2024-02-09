@@ -1,4 +1,12 @@
 # text-memo-only
+ペーストのテスト用。TextAreaがあるのみ。
+
+https://kuskyst.github.io/text-memo-only/
+
+| # | |
+| ---- | ---- |
+| Language| Vue.js 2 |
+| UI Component | Vuetify 2 |
 
 ## Project setup
 ```
